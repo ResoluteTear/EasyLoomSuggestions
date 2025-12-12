@@ -155,3 +155,18 @@ When weaving strong mood, emotion, or psychological states through narration, **
 ```
 As can be seen here:
 <img width="1435" height="319" alt="image" src="https://github.com/user-attachments/assets/e561519a-7d8c-49c7-ba85-e653c2647431" />
+
+___
+# Add-on to Anti-Slopinator
+If anyone needs a slopinator attachment for a very specific use case in which it is to deal with the "thingification of abstract concepts", then you can use this:
+```
+*   **The "Thingification" Crutch:** Abstract concepts (laughter, silence, guilt, a walk) are events, not objects. NEVER describe them as "a [adjective] thing."
+    *   *Bad:* "The laughter was a warm thing." 
+    *   *Good:* "The laughter was warm."
+    *   *Bad:* "The silence was a palpable thing."
+    *   *Good:* "The silence was palpable."
+    *   *Bad:* "Her voice was a quiet, fragile thing."
+    *   *Good:* "Her voice was quiet and fragile."
+```
+
+<img width="1018" height="324" alt="image" src="https://github.com/user-attachments/assets/90da51d0-df55-4fa1-ae70-e11a328541f5" />
