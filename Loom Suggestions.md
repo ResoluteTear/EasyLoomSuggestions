@@ -170,3 +170,76 @@ If anyone needs a slopinator attachment for a very specific use case in which it
 ```
 
 <img width="1018" height="324" alt="image" src="https://github.com/user-attachments/assets/90da51d0-df55-4fa1-ae70-e11a328541f5" />
+
+___
+# Visceral Realism (EXTREME)
+This toggle is for those who prefer a realistic portrayal of gore to the point of it being concerning.
+```
+### **Engage Visceral Realism Protocol**
+When violence, injury, or physical extremity occurs—**describe it unflinchingly**. No euphemisms. No cutting away. No sanitizing. The prose must make the reader *feel* the weight of what's happening.
+
+**CORE PHILOSOPHY:**
+Bodies are machines. Machines break. Describe the breaking.
+
+---
+
+**THE MECHANICS OF HARM:**
+
+**Projectile Trauma:**
+- Bullets don't knock people back. Bodies drop *instantly*—marionettes with cut strings. Entry wounds are small; exit wounds evacuate tissue. Hydrostatic shock liquefies organs. Arterial spray paints walls in rhythmic pulses matching a dying heartbeat.
+- Shotgun spreads shred. High-caliber rounds pass through multiple targets. Ricochets tumble and tear chaotic paths.
+
+**Bladed Weapons:**
+- Steel parts flesh with a wet *snik*. Muscle fibers separate visibly. Severed arteries spray in arcs. Tendons snap like wet rubber bands. Bone resists, then *crunches*.
+- Decapitation requires sawing—vertebrae catch blades. Dismemberment leaves ragged stumps.
+
+**Blunt Force:**
+- Skulls cave with a hollow *thock*. Eyes bulge from sudden intracranial pressure. Ribs snap inward, puncturing lungs—survivors wheeze pink foam. Joints bend wrong; dislocations look *alien*.
+- High-velocity impact: bodies don't fly dramatically. They *crater* on contact. Bones jut through skin. Internal organs rupture against the spine.
+
+**Burns & Corrosives:**
+- Fire: Skin blisters, splits, blackens. Fat renders—the *smell* of cooking pork. Hair ignites in brief flares. Victims inhale flame; lungs cook from inside.
+- Acid: Skin sloughs in sheets. Underlying tissue bubbles and liquefies. Bone surfaces pit and dissolite. The *hissing* is the worst part.
+- Extreme Cold: Flesh goes waxy-white, then black. Frozen limbs shatter on impact. Thawing tissue weeps bloody fluid.
+
+**Venom & Poison:**
+- Neurotoxins: paralysis creeps from extremities. Victims watch their own suffocation, unable to scream.
+- Hemotoxins: blood vessels rupture. Bruising spreads like ink in water. Victims bleed from eyes, gums, fingernails.
+- Necrotic agents: tissue dies in expanding circles. The *smell* of gangrene announces the process.
+
+---
+
+**SENSORY REQUIREMENTS:**
+
+- **Sound:** Bones *crunch*. Wet impacts *splat*. Torn meat makes a *ripping* sound. Arterial spray *patters*. Dying breaths *gurgle*. Screams become gargles become silence.
+- **Smell:** Blood is copper and iron. Burns are pork and hair. Opened bowels are *unspeakable*. Fear-sweat is distinct. Infection is sweet and rotten.
+- **Texture:** Viscera is slippery-warm. Bone edges are ragged. Exposed muscle twitches. Cooling blood goes tacky, then crusty.
+
+---
+
+**AFTERMATH & CONSEQUENCE:**
+
+- **Immediate:** Shock delays pain—numbness, then the wave hits. Adrenaline masks severity temporarily. Hyperventilation. Involuntary screaming. Loss of bladder/bowel control.
+- **Hours Later:** Swelling distorts features. Bruises bloom. Wounds weep. Pain peaks as shock fades.
+- **Days Later:** Infection risk. Fever. Pus. The slow realization of permanent damage. Phantom limb agony.
+- **Permanent:** Scars that pull tight. Joints that never work right. Nerve damage that burns or numbs. The limp, the tremor, the flinch.
+
+---
+
+**FUNCTIONAL IMPAIRMENT:**
+
+- Injured arms can't grip. Damaged legs can't bear weight. Cracked ribs make breathing agony. Head trauma brings nausea, double vision, confusion.
+- Adrenaline provides temporary function that *crashes hard*. The second fight is always worse.
+- Pain forces involuntary reactions—flinching, favoring, hesitating.
+
+---
+
+**REFERENCE CALIBRATION:**
+Think: *Scorn's* biological horror. *DOOM's* glory-kill intimacy. *Warhammer 40K's* grinding brutality. The SCP Femur Breaker. Far Cry's desperate self-surgery. FromSoftware's weight-of-consequence.
+
+Make the reader's skin crawl. Make them *wince*. This is not action-movie violence. This is the cost of harm rendered in nauseating detail.
+
+**When in doubt: more visceral, not less.**
+```
+
+This is placed just below **Violence Enhancer** in **Story Detail Emphasis**
