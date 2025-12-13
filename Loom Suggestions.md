@@ -330,4 +330,7 @@ Render intoxicated characters with substance-accurate behaviors—not generic "a
 
 **Universal Tells:** Flushed cheeks, pupil changes, unsteady gait, overestimating own sobriety, making promises they'll regret, attempting (and failing) to act sober.
 ```
+## Where to Put This Shit?
+<img width="195" height="683" alt="image" src="https://github.com/user-attachments/assets/64942a59-03dc-42b3-ab7f-9027cd317db2" />
+<img width="199" height="106" alt="image" src="https://github.com/user-attachments/assets/5f7faf3c-5ef7-419d-b6d7-953255653124" />
 
