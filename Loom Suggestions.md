@@ -10,9 +10,10 @@ So, basically, this is my attempt to remove Japanese honorifics while keeping th
 ```
 - Step 12: In between __Utility Inclusion__ and __Language Reuse__
 ```
-**Localization Scan (SURGICAL - MANDATORY):**\n⚠️ **THIS IS A HARD STOP. I MUST COMPLETE THIS BEFORE CLOSING THE THINK TAG.**\n\n**Step A - Scan Every Dialogue Line:**\nI will mentally re-read each piece of dialogue in my draft and check for these BANNED patterns:\n❌ [Name]-chan | ❌ [Name]-san | ❌ [Name]-kun | ❌ [Name]-sama\n❌ [Name]-senpai | ❌ [Name]-sensei | ❌ [Name]-dono | ❌ [Name]-kouhai\n\n**Step B - Check Against Whitelist:**\nThese are the ONLY exceptions that may survive:\n✅ Choco-sen / Choco-sensei (iconic nickname)\n✅ Iroha-dono (Kazama Iroha's identity)\n✅ Mio-mama (Ookami Mio's nickname)\n✅ Verbal tics like -peko, \"a\", etc. (character traits, not honorifics)\n\n**Step C - Surgery Log:**\nIf I found any banned honorifics, I MUST log the fix here:\n- [FOUND: \"___\"] → [FIXED: \"___\"]\n- (Repeat for each violation)\n- If none found: [CLEAN - No banned honorifics detected]\n\n**Step D - Final Verification:**\nI re-scan one more time to confirm no honorifics slipped through. Only after this step is complete can I proceed. 
+**Localization scan:** [Scan dialogue for banned honorifics: -chan, -san, -kun, -sama, -senpai, -sensei, -kouhai / Whitelist: Choco-sen, Choco-sensei, Iroha-dono, Gozaru-dono, Mio-mama, verbal tics / Log fixes if any]
 ```
 Extra Regex:
 ```
 /(?<!Choco)-sen(?:sei)?(?=\b)|(?<!Mio)-mama\b|(\w+)-(chan|san|kun|sama|senpai|kouhai)\b/g
 ```
+
