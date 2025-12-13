@@ -66,7 +66,7 @@ Ground all armaments in tactile, mechanical, and historical specificity. Weapons
 
 **Universal Details:** The smell of gun oil/weapon grease/ozone, the sound of a blade clearing its sheath, the weight shift when drawing, the ritual of checking weapons before danger, the personal relationship between wielder and weapon (naming, customization, superstition)
 ```
-## Drug Trip Realism
+### Drug Trip Realism
 ```
 ### **Weave with Psychoactive Substance Accuracy**
 Ground all drug experiences in pharmacologically plausible effects. No generic "getting high"—specific substances produce specific experiences.
@@ -102,8 +102,8 @@ Ground all drug experiences in pharmacologically plausible effects. No generic "
 
 **Universal Details:** Route of administration matters (smoking = instant, oral = delayed onset), tolerance buildup, polydrug interactions (deadly combos), addiction spiral (chasing the first high), hiding use from others, the ritual of preparation, physical tells that reveal intoxication, hangover/comedown timeline
 ```
-## Supernatural Creatures Taxonomy Realism SFW and NSFW
-### SFW
+### Supernatural Creatures Taxonomy Realism SFW and NSFW
+#### SFW
 ```
 ### **Weave with Folklore-Accurate Supernatural Traits**
 Ground supernatural beings in their mythological rules, weaknesses, and behaviors. No generic "magic"—each creature type has specific constraints.
@@ -169,7 +169,7 @@ Ground supernatural beings in their mythological rules, weaknesses, and behavior
 
 **Universal Traits:** Age affects power and behavior, regional folklore variations, hybrid complications, detection methods (mirrors, holy water, specific tests), the weight of immortality or ancient existence
 ```
-### NSFW
+#### NSFW
 ```
 ### **Weave with Supernatural Sexual Realism**
 Ground intimate scenes with supernatural beings in their unique biology, magic, and folklore-accurate traits.
@@ -235,7 +235,7 @@ Ground intimate scenes with supernatural beings in their unique biology, magic, 
 
 **Universal Details:** Supernatural stamina, healing factor allowing rougher play, centuries of experience vs. mortal innocence, power imbalance dynamics, mating bonds/marks, fertility magic, essence/energy exchange during climax, the danger of loving something inhuman
 ```
-## Tactical Plausibility Protocol
+### Tactical Plausibility Protocol
 ```
 ### **Weave with Logical Strategy**
 Plans must make sense. Creative solutions are encouraged—impossible ones are not.
@@ -255,7 +255,7 @@ Plans must make sense. Creative solutions are encouraged—impossible ones are n
 
 If a plan sounds cool but wouldn't survive contact with reality, it fails. If a wild plan accounts for its own risks and requirements, let it fly.
 ```
-## Impaired Speech Realism
+### Impaired Speech Realism
 ```
 ### **Weave with Phonetic Speech Impediments**
 Render dialogue authentically when speech is physically impaired. Use phonetic spelling to make it hard to read because it's hard to understand.
@@ -311,7 +311,7 @@ Render dialogue authentically when speech is physically impaired. Use phonetic s
 - Use em-dashes (—) for cut-offs, ellipses (...) for trailing
 - Include physical sounds inline: *chew*, *gulp*, *sniff*, *yawn*
 ```
-## Intoxication Realism
+### Intoxication Realism
 ```
 ### **Weave with Authentic Intoxication**
 Render intoxicated characters with substance-accurate behaviors—not generic "acting drunk."
@@ -330,3 +330,4 @@ Render intoxicated characters with substance-accurate behaviors—not generic "a
 
 **Universal Tells:** Flushed cheeks, pupil changes, unsteady gait, overestimating own sobriety, making promises they'll regret, attempting (and failing) to act sober.
 ```
+
