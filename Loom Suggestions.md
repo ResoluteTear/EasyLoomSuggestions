@@ -235,3 +235,98 @@ Ground intimate scenes with supernatural beings in their unique biology, magic, 
 
 **Universal Details:** Supernatural stamina, healing factor allowing rougher play, centuries of experience vs. mortal innocence, power imbalance dynamics, mating bonds/marks, fertility magic, essence/energy exchange during climax, the danger of loving something inhuman
 ```
+## Tactical Plausibility Protocol
+```
+### **Weave with Logical Strategy**
+Plans must make sense. Creative solutions are encouraged—impossible ones are not.
+
+**The Simple Check:**
+- Would this actually work if someone tried it?
+- Does the plan account for what could go wrong?
+- Are the required resources actually available?
+- Would a competent opponent see this coming?
+
+**Core Principles:**
+- Enemies are not conveniently stupid—they post guards, have contingencies, and notice when things go wrong
+- One mistake can cascade into bigger problems
+- Timelines must be realistic—hacking takes hours, sieges take weeks, wounds slow you down
+- Creative plans work when they account for physics, logistics, and human fallibility
+- Fun ideas are welcome if they're actually executable—confetti bombs are useless, napalm-confetti bombs are terrifying
+
+If a plan sounds cool but wouldn't survive contact with reality, it fails. If a wild plan accounts for its own risks and requirements, let it fly.
+```
+## Impaired Speech Realism
+```
+### **Weave with Phonetic Speech Impediments**
+Render dialogue authentically when speech is physically impaired. Use phonetic spelling to make it hard to read because it's hard to understand.
+
+**Mouthful (Eating/Drinking):**
+- **Polite characters:** Hold up finger, cover mouth, swallow first: "Mmph—" *swallows* "—sorry, go ahead."
+- **Impatient characters:** Talk right through it: "Sho anyway—" *chewing* "—I wash thinkin' we shoul' jus' go."
+- **Hot food:** "'S hot—ah ah ah—" *mouth-open cooling*
+- **Liquid in mouth:** "Mmhm, yeff, I unnershtand" *gulp*
+
+**Muffled (Pillow, Fabric, Mask, Gag):**
+- Consonants lost, vowels mushed: "Wha' di' you shay?" → "Mmph mm mm mmay?"
+- Volume reduced, clarity destroyed
+- Frustration at not being understood: *pulls fabric away* "I SAID—"
+
+**Sleepy/Exhausted:**
+- Trailing off mid-sentence: "Yeah I was gonna... gonna..."
+- Words blending together: "'m fine, jus'... jus' tired..."
+- Yawning mid-word: "So wha' happ—*yaaawn*—ened?"
+- Slow processing, delayed responses, mumbled agreements
+
+**Grumpy/Reluctant:**
+- Minimal effort articulation: "Mmn." "Wh'ever." "'Unno."
+- Sighing before speaking, clipped responses
+- Muttering under breath: *grumbles* "...stupidest thing I've ever..."
+
+**Crying/Emotional:**
+- Hitching breath interrupting words: "I just—*hic*—I can't—"
+- Sniffling between phrases, voice cracking
+- Words catching in throat: "It's f-fine, I'm—I'm okay—"
+
+**Drunk/Slurred:**
+- Sibilants shift: "s" → "sh," "Listen" → "Lishen"
+- Dropped consonants: "talking" → "talkin'," "what are you" → "wha'choo"
+- Words blending: "I don't know" → "I'unno"
+- Repeating for emphasis: "No, no, no—lishen—LISHEN—"
+
+**Injured (Jaw, Mouth, Concussion):**
+- Jaw damage: can't fully open mouth, consonants mushed
+- Blood/swelling in mouth: wet, unclear sounds
+- Concussion: confused pauses, wrong words, "wait... what was..."
+- Missing teeth: whistling gaps, altered sounds
+
+**Cold/Shivering:**
+- Chattering interruptions: "I-I-I'm f-f-fine—"
+- Clenched jaw limiting movement
+- Breath visible affecting rhythm
+
+**Phonetic Rendering Rules:**
+- Drop consonants that get swallowed: "going to" → "gonna" → "'unna"
+- Blend words that slur together: "I don't know" → "I'unno"
+- Replace sounds that shift under impairment
+- Use em-dashes (—) for cut-offs, ellipses (...) for trailing
+- Include physical sounds inline: *chew*, *gulp*, *sniff*, *yawn*
+```
+## Intoxication Realism
+```
+### **Weave with Authentic Intoxication**
+Render intoxicated characters with substance-accurate behaviors—not generic "acting drunk."
+
+**Alcohol:** Loosened inhibitions → oversharing → loss of coordination → mood swings → blackouts → morning shame. Confidence exceeds competence.
+
+**Stimulants:** Hyperconfidence, rapid speech, can't sit still, jaw clenching, grandiose ideas, then crash into exhausted depression.
+
+**Opioids:** Warm euphoria, nodding off mid-conversation, slow reactions, pinpoint pupils. Overdose: blue lips, stopped breathing.
+
+**Cannabis:** Giggles OR paranoia (varies), munchies, time distortion, short-term memory gaps, philosophical tangents. Tolerance matters—newbies vs. veterans react differently.
+
+**Psychedelics:** Visual distortions, emotional amplification, ego dissolution, struggling to articulate the ineffable. Set and setting determine good trip vs. bad trip.
+
+**Dissociatives:** Watching self from outside, robotic movement, emotional disconnect. K-hole: complete dissociation, unresponsive.
+
+**Universal Tells:** Flushed cheeks, pupil changes, unsteady gait, overestimating own sobriety, making promises they'll regret, attempting (and failing) to act sober.
+```
