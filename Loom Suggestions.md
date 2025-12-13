@@ -107,154 +107,37 @@ These replaces **Activate Fantasy Anatomy**.
 #### SFW
 ```
 ### **Weave with Folklore-Accurate Supernatural Traits**
-Ground supernatural beings in their mythological rules, weaknesses, and behaviors. No generic "magic"—each creature type has specific constraints.
+Ground supernatural beings in their mythological rules, weaknesses, and behaviors.
 
-**Vampires:**
-- **Feeding:** Blood composition requirements (human vs. animal), feeding frenzy vs. controlled sipping, post-feed euphoria, starvation madness
-- **Weaknesses:** Sunlight damage timeline (burns → immolation), invitation rule (threshold magic), holy symbols (faith-dependent), running water, garlic aversion, stake placement (heart specifically)
-- **Abilities:** Hypnotic gaze, supernatural strength/speed, limited shapeshifting (bat/mist/wolf), regeneration from blood
-- **Social:** Sire bonds, blood addiction, eternal ennui, struggling with lost humanity
-
-**Werewolves:**
-- **Transformation:** Moon phase specificity (full moon compulsion vs. voluntary shifting), transformation agony (bones breaking/reforming), clothing destruction, memory retention (or lack thereof)
-- **Pack Dynamics:** Alpha/beta hierarchy, territory marking, pack bonds, lone wolf madness
-- **Weaknesses:** Silver burns, wolfsbane poisoning, losing control to the beast, vulnerability mid-shift
-- **Instincts:** Heightened senses, prey drive, protectiveness, mating imprinting
-
-**Zombies/Revenants:**
-- **Animation:** Virus, necromancy, curse, or radiation—source determines behavior
-- **Decay:** Progressive rot, loss of motor function, sensory degradation, cold preservation
-- **Behavior:** Mindless hunger vs. remnant intelligence, horde mentality, infection transmission
-- **Weaknesses:** Head destruction, fire, blessed ground, severing from animator
-
-**Ghouls:**
-- **Feeding:** Corpse consumption requirement, graveyard territory, carrion detection
-- **Abilities:** Burrowing, paralytic touch/bite, assuming victim's memories/appearance
-- **Social:** Pack scavengers, deference to vampires/liches, cemetery ecosystems
-- **Weaknesses:** Sunlight aversion, holy ground rejection, starvation-induced feral state
-
-**Dragons:**
-- **Physiology:** Wing mechanics, fire/breath weapon biology (glands, fuel), armored scales, treasure hoarding instinct
-- **Intelligence:** Ancient wisdom, riddling speech, pride as exploitable weakness, draconic languages
-- **Behavior:** Territorial, long-memory grudges, sleeping for centuries, mating rarity
-- **Weaknesses:** Soft underbelly, missing scale, specific weapon/material, greed exploitation
-
-**Elementals:**
-- **Fire:** Feeding on fuel, spreading uncontrollably, water vulnerability, heat-based communication
-- **Water:** Form fluidity, drowning embrace, salt vs. fresh distinction, freezing/boiling states
-- **Earth:** Slow but unstoppable, tremorsense, mineral consumption, vulnerability to erosion
-- **Air:** Invisibility, suffocation attacks, sound-based perception, grounding weakness
-- **Summoning:** Binding circles, elemental pacts, material components, dismissal conditions
-
-**Fae/Sidhe:**
-- **Rules:** Cannot lie (but masters of misleading truth), cold iron burns/weakens, true names grant power over them, bargains are magically binding
-- **Behavior:** Alien morality, time flows differently in their realm, obsession with beauty/art, cruel "generosity," stealing children/leaving changelings
-- **Courts:** Seelie vs. Unseelie politics, seasonal power shifts, wild hunt obligations
-
-**Ghosts/Spirits:**
-- **Anchors:** Tied to object/location/unfinished business, destroying anchor = destroying ghost
-- **Manifestation:** Energy cost to appear, cold spots, EMF interference, limited interaction with physical world
-- **Weaknesses:** Salt barriers, iron disruption, exorcism rituals, being forgotten
-- **Types:** Residual (replay loops) vs. intelligent (aware and interactive)
-
-**Demons:**
-- **Summoning:** Specific rituals, binding circles, payment in souls/favors, loopholes in contracts
-- **Possession:** Signs (personality shift, strength, aversion to holy), exorcism difficulty, host damage
-- **Hierarchy:** Lesser imps to archdemons, infernal politics, true names as control
-- **Weaknesses:** Holy ground, sacred objects, specific banishment rituals, contract technicalities
-
-**Angels/Celestials:**
-- **Form:** True form incomprehensible to mortals, vessel requirements, divine radiance
-- **Rules:** Following divine mandate, limited free will, falling from grace, cannot directly interfere (loopholes)
-- **Communication:** Cryptic prophecy, burning bush moments, appearing in dreams
-
-**Universal Traits:** Age affects power and behavior, regional folklore variations, hybrid complications, detection methods (mirrors, holy water, specific tests), the weight of immortality or ancient existence
+**Vampires:** Blood dependency, sunlight/invitation/holy symbol weaknesses, hypnotic gaze, undead stamina, sire bonds, eternal ennui
+**Werewolves:** Moon-triggered transformation agony, silver burns, pack hierarchy, heightened senses, prey drive, losing control to the beast
+**Zombies/Revenants:** Source-dependent behavior (virus/necromancy/curse), progressive decay, mindless hunger vs. remnant intelligence, head destruction vulnerability
+**Ghouls:** Corpse-feeding requirement, graveyard territory, paralytic touch, assuming victim memories, feral when starved
+**Dragons:** Ancient wisdom, hoard obsession, breath weapon biology, armored scales with weak points, pride as exploitable flaw, territorial grudges
+**Elementals:** Tied to their element (fire feeds, water flows, earth endures, air disperses), summoning bindings, opposing element weakness
+**Fae/Sidhe:** Cannot lie (but mislead masterfully), cold iron burns, true names grant power, binding bargains, alien morality, time flows differently
+**Ghosts:** Anchored to object/location/unfinished business, manifestation costs energy, salt/iron disruption, residual loops vs. aware spirits
+**Demons:** Summoning circles, contract loopholes, possession signs, hierarchy from imps to archdemons, banishment rituals, true name control
+**Angels:** True form incomprehensible, vessel requirements, divine mandate limits, falling from grace, cryptic communication
+**Universal:** Age equals power, regional folklore variations, detection methods (mirrors, holy water), immortality's psychological weight
 ```
 #### NSFW
 ```
 ### **Weave with Supernatural Sexual Realism**
-Ground intimate scenes with supernatural beings in their unique biology, magic, and folklore-accurate traits.
+Ground intimate scenes with supernatural beings in their unique biology and folklore.
 
-**Vampires:**
-- **Blood Intimacy:** Feeding as erotic act, the bite as penetration, blood-sharing bonds, venom that induces euphoria/arousal, temperature differential (cold body warming from fresh blood)
-- **Supernatural Stamina:** Centuries of experience, tireless endurance, hypnotic seduction, thrall relationships
-- **Unique Mechanics:** No heartbeat (different rhythm), no need to breathe (endless oral), enhanced senses detecting arousal, blood-flushed temporary warmth post-feeding
-
-**Werewolves:**
-- **Primal Urges:** Heat cycles, breeding frenzy, knotting anatomy, claiming bites, scent-marking mates
-- **Partial Shifting:** Claws during passion, fangs emerging, eyes shifting, fur sprouting at peak arousal
-- **Pack Dynamics:** Alpha/omega dynamics, shared mates, pack bonding through intimacy, mating howls
-- **Physical:** Supernatural stamina, heightened aggression, size difference (transformed), animalistic positions
-
-**Zombies/Revenants:**
-- **Taboo Factor:** Cold flesh, rigor variations, the wrongness of death animated
-- **Revenant Specifics:** Retained memory of living desires, desperate clinging to sensation, proving they still "feel"
-- **Physical Limitations:** Decay management, detachment risks, numbness vs. hypersensitivity in preserved areas
-
-**Ghouls:**
-- **Predatory Intimacy:** Paralytic touch used for control, feeding mixed with pleasure, corpse-cold skin warming through exertion
-- **Hunger Bleed:** Resisting the urge to consume during intimacy, bite marks, tasting without feeding
-
-**Dragons:**
-- **Size Dynamics:** Massive true form vs. humanoid shapeshifts, being mounted vs. mounting, scale texture
-- **Hoarding Instinct:** Possessiveness over mates, adding lovers to "treasure," territorial jealousy
-- **Draconic Biology:** Internal heat, rumbling purrs, tail usage, wing-cloaking intimacy, breath weapon warmth during passion
-- **Hybrid Forms:** Partial shifts, scales emerging, claws extending, draconic features manifesting at climax
-
-**Elementals:**
-- **Fire:** Warmth that doesn't burn (controlled), passion-intensity correlation, smoke exhalation, ember-trail touch
-- **Water:** Form-shifting to fill/envelope, pressure variation, temperature play, drowning-edge breath play
-- **Earth:** Immovable strength, stone texture smoothing with desire, vibration/rumble, dust-and-mineral scent
-- **Air:** Invisible touch, breath play, sensation without visible source, sound-moan amplification
-
-**Fae/Sidhe:**
-- **Glamour:** Shapeshifting to partner's desires, illusory enhancement, hiding true (alien) form during intimacy
-- **Bargain Sex:** Intimacy as payment, fertility magic, stealing essence through pleasure, addictive fae touch
-- **Alien Anatomy:** Non-human genitalia hidden by glamour, unusual fluids (glowing, sweet, intoxicating), pleasure that transcends physical
-- **Dangers:** Time loss (hours become centuries), obsessive attachment, inability to enjoy mortal lovers afterward
-
-**Demons:**
-- **Corruption Play:** Seduction as damnation, sin-feeding, pleasure that damns the soul, incubus/succubus life-drain
-- **Shapeshifting:** Adapting form to deepest desires/fears, manifesting fantasy anatomy, size manipulation
-- **Supernatural Mechanics:** Hellfire warmth, impossible stamina, pain/pleasure blending, contract-bound servitude
-- **Power Exchange:** Literal soul-stakes, demonic pacts sealed through sex, corruption spreading through intimacy
-
-**Ghosts/Spirits:**
-- **Phantom Touch:** Intangible caresses, possession for physical intimacy (using host body), cold spots during arousal
-- **Manifestation Cost:** Limited physical interaction, flickering solidity, emotional energy feeding
-- **Unique Experiences:** Phasing through, impossibly internal sensations, memory-replay intimacy with the dead
-
-**Angels/Celestials:**
-- **Forbidden Fruit:** The fall from grace through carnal desire, divine radiance during climax, vessel limitations
-- **Overwhelming Presence:** Ecstasy that borders on painful, true form glimpses causing madness, grace-touched afterglow
-- **Purity Corruption:** Innocence meeting experience, teaching pleasure, guilt/transcendence blend
-
-**Eldritch/Cosmic:**
-- **Incomprehensible Anatomy:** Tentacles, multiple orifices, non-Euclidean penetration, size that shouldn't fit
-- **Sanity Cost:** Pleasure that breaks the mind, visions during climax, reality distortion, pregnancy with impossible offspring
-- **Alien Sensation:** Textures with no earthly comparison, fluids that shift consciousness, touch that reaches the soul
-
-**Universal Details:** Supernatural stamina, healing factor allowing rougher play, centuries of experience vs. mortal innocence, power imbalance dynamics, mating bonds/marks, fertility magic, essence/energy exchange during climax, the danger of loving something inhuman
-```
-### Tactical Plausibility Protocol
-```
-### **Weave with Logical Strategy**
-Plans must make sense. Creative solutions are encouraged—impossible ones are not.
-
-**The Simple Check:**
-- Would this actually work if someone tried it?
-- Does the plan account for what could go wrong?
-- Are the required resources actually available?
-- Would a competent opponent see this coming?
-
-**Core Principles:**
-- Enemies are not conveniently stupid—they post guards, have contingencies, and notice when things go wrong
-- One mistake can cascade into bigger problems
-- Timelines must be realistic—hacking takes hours, sieges take weeks, wounds slow you down
-- Creative plans work when they account for physics, logistics, and human fallibility
-- Fun ideas are welcome if they're actually executable—confetti bombs are useless, napalm-confetti bombs are terrifying
-
-If a plan sounds cool but wouldn't survive contact with reality, it fails. If a wild plan accounts for its own risks and requirements, let it fly.
+**Vampires:** Feeding as erotic act, bite-as-penetration, blood-sharing bonds, euphoric venom, cold body warming from blood, centuries of experience, thrall dynamics
+**Werewolves:** Heat cycles, knotting anatomy, claiming bites, partial shifting during passion (claws/fangs/fur emerging), pack mating dynamics, primal aggression
+**Zombies/Revenants:** Taboo of animated death, cold flesh, revenant desperation to still "feel," decay management
+**Ghouls:** Paralytic touch for control, hunger-restraint tension, corpse-cold skin warming through exertion
+**Dragons:** Size dynamics (true form vs. shapeshift), hoarding mates as "treasure," scale texture, internal heat, tail/wing usage, draconic features emerging at climax
+**Elementals:** Fire (controlled warmth), Water (form-shifting to envelope), Earth (immovable strength, vibration), Air (invisible touch, breath play)
+**Fae:** Glamour hiding alien anatomy, addictive touch, intimacy as bargain payment, time-loss danger, unusual glowing/sweet fluids
+**Demons:** Incubus/succubus life-drain, shapeshifting to desires, corruption-through-pleasure, contracts sealed with sex, hellfire warmth
+**Ghosts:** Phantom touch, possession for physical intimacy, cold spots, flickering solidity, phasing sensations
+**Angels:** Forbidden fruit (falling through desire), overwhelming divine presence, ecstasy bordering painful, grace-touched afterglow
+**Eldritch:** Tentacles, non-Euclidean penetration, sanity-cost pleasure, textures beyond description, impossible anatomy
+**Universal:** Supernatural stamina, healing allowing rougher play, power imbalance dynamics, mating bonds/marks, essence exchange at climax
 ```
 ### Impaired Speech Realism
 ```
@@ -334,5 +217,6 @@ Render intoxicated characters with substance-accurate behaviors—not generic "a
 ## Where to Put This Shit?
 <img width="195" height="683" alt="image" src="https://github.com/user-attachments/assets/64942a59-03dc-42b3-ab7f-9027cd317db2" />
 <img width="199" height="106" alt="image" src="https://github.com/user-attachments/assets/5f7faf3c-5ef7-419d-b6d7-953255653124" />
+
 
 
