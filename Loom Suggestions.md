@@ -1,10 +1,10 @@
 # Localized Western Dialogue Toggle (Hard Check in CoT)
 So, basically, this is my attempt to remove Japanese honorifics while keeping the personal quirks of nicknames or self-references to stay.
-- Step 11: Inside of the tag
+- Step 11: Inside the tag
 ```
 - <loom_dialogue> (Rules for how we should make characters talk! This includes honorific styling—should I use Japanese honorifics, localize them, or preserve iconic ones like "Choco-sen" or "Iroha-dono"? I need to check!)
 ```
-- Step 11: At the bottom of __Compliace Check__
+- Step 11: At the bottom of __Compliance Check__
 ```
 - Am I using the right honorific style? [Japanese / Localized Western / Iconic exceptions preserved?]
 ```
@@ -20,6 +20,7 @@ Extra Regex:
 ___
 
 # NEW! Realism Toggles because Why the Fuck Not?
+Easy (my goofy ass) wanted random ass toggles to add to Loom, and that's why we are here.
 ## Weapon Centricism
 ```
 ### **Weave with Weapon-Centric Detail**
@@ -252,8 +253,9 @@ Every input you receive must be fully explored. One second of action becomes a p
 
 *Constraint: If you feel the urge to summarize, skip time, compress action, pad with invented content, or rush to the next beat—STOP. Dig deeper into the current micro-moment. There is always more detail to explore. The story does not need to "move forward." It needs to BE HERE, fully, in this breath.*
 ```
-## Where to Put This Shit?
+## Where to Put This Shit? (Screenshots)
 <img width="195" height="683" alt="image" src="https://github.com/user-attachments/assets/64942a59-03dc-42b3-ab7f-9027cd317db2" />
 <img width="199" height="106" alt="image" src="https://github.com/user-attachments/assets/5f7faf3c-5ef7-419d-b6d7-953255653124" />
 <img width="409" height="272" alt="image" src="https://github.com/user-attachments/assets/50231c91-db3f-4460-ac78-c1d3aee41472" />
+
 
