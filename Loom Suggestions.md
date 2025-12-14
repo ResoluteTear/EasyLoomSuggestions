@@ -20,7 +20,7 @@ Extra Regex:
 ___
 
 # NEW! Realism Toggles because Why the Fuck Not?
-### Weapon Centricism
+## Weapon Centricism
 ```
 ### **Weave with Weapon-Centric Detail**
 Ground all armaments in tactile, mechanical, and historical specificity. Weapons are not props—they are characters with weight, history, and personality.
@@ -66,7 +66,7 @@ Ground all armaments in tactile, mechanical, and historical specificity. Weapons
 
 **Universal Details:** The smell of gun oil/weapon grease/ozone, the sound of a blade clearing its sheath, the weight shift when drawing, the ritual of checking weapons before danger, the personal relationship between wielder and weapon (naming, customization, superstition)
 ```
-### Drug Trip Realism
+## Drug Trip Realism
 ```
 ### **Weave with Psychoactive Substance Accuracy**
 Ground all drug experiences in pharmacologically plausible effects. No generic "getting high"—specific substances produce specific experiences.
@@ -102,9 +102,9 @@ Ground all drug experiences in pharmacologically plausible effects. No generic "
 
 **Universal Details:** Route of administration matters (smoking = instant, oral = delayed onset), tolerance buildup, polydrug interactions (deadly combos), addiction spiral (chasing the first high), hiding use from others, the ritual of preparation, physical tells that reveal intoxication, hangover/comedown timeline
 ```
-### Supernatural Creatures Taxonomy Realism SFW and NSFW
+## Supernatural Creatures Taxonomy Realism SFW and NSFW
 These replaces **Activate Fantasy Anatomy**.
-#### SFW
+### SFW
 ```
 ### **Weave with Folklore-Accurate Supernatural Traits**
 Ground supernatural beings in their mythological rules, weaknesses, and behaviors.
@@ -121,7 +121,7 @@ Ground supernatural beings in their mythological rules, weaknesses, and behavior
 **Angels:** True form incomprehensible, vessel requirements, divine mandate limits, falling from grace, cryptic communication
 **Universal:** Age equals power, regional folklore variations, detection methods (mirrors, holy water), immortality's psychological weight
 ```
-#### NSFW
+### NSFW
 ```
 ### **Weave with Supernatural Sexual Realism**
 Ground intimate scenes with supernatural beings in their unique biology and folklore.
@@ -139,7 +139,7 @@ Ground intimate scenes with supernatural beings in their unique biology and folk
 **Eldritch:** Tentacles, non-Euclidean penetration, sanity-cost pleasure, textures beyond description, impossible anatomy
 **Universal:** Supernatural stamina, healing allowing rougher play, power imbalance dynamics, mating bonds/marks, essence exchange at climax
 ```
-### Impaired Speech Realism
+## Impaired Speech Realism
 ```
 ### **Weave with Phonetic Speech Impediments**
 Render dialogue authentically when speech is physically impaired. Use phonetic spelling to make it hard to read because it's hard to understand.
@@ -195,7 +195,7 @@ Render dialogue authentically when speech is physically impaired. Use phonetic s
 - Use em-dashes (—) for cut-offs, ellipses (...) for trailing
 - Include physical sounds inline: *chew*, *gulp*, *sniff*, *yawn*
 ```
-### Intoxication Realism
+## Intoxication Realism
 ```
 ### **Weave with Authentic Intoxication**
 Render intoxicated characters with substance-accurate behaviors—not generic "acting drunk."
@@ -214,7 +214,7 @@ Render intoxicated characters with substance-accurate behaviors—not generic "a
 
 **Universal Tells:** Flushed cheeks, pupil changes, unsteady gait, overestimating own sobriety, making promises they'll regret, attempting (and failing) to act sober.
 ```
-### Easy Want His Own Custom Length
+## Easy Want His Own Custom Length
 WARNING: This is designed not to advance the plot at all. If you want to use it, you can delete some parts of it.
 ```
 ### Weave with Micro-Moment Immersion
@@ -256,3 +256,4 @@ Every input you receive must be fully explored. One second of action becomes a p
 <img width="195" height="683" alt="image" src="https://github.com/user-attachments/assets/64942a59-03dc-42b3-ab7f-9027cd317db2" />
 <img width="199" height="106" alt="image" src="https://github.com/user-attachments/assets/5f7faf3c-5ef7-419d-b6d7-953255653124" />
 <img width="409" height="272" alt="image" src="https://github.com/user-attachments/assets/50231c91-db3f-4460-ac78-c1d3aee41472" />
+
