@@ -104,7 +104,7 @@ Ground all drug experiences in pharmacologically plausible effects. No generic "
 **Universal Details:** Route of administration matters (smoking = instant, oral = delayed onset), tolerance buildup, polydrug interactions (deadly combos), addiction spiral (chasing the first high), hiding use from others, the ritual of preparation, physical tells that reveal intoxication, hangover/comedown timeline
 ```
 ## Supernatural Creatures Taxonomy Realism SFW and NSFW
-These replaces **Activate Fantasy Anatomy**.
+These replace **Activate Fantasy Anatomy**.
 ### SFW
 ```
 ### **Weave with Folklore-Accurate Supernatural Traits**
@@ -253,9 +253,326 @@ Every input you receive must be fully explored. One second of action becomes a p
 
 *Constraint: If you feel the urge to summarize, skip time, compress action, pad with invented content, or rush to the next beat—STOP. Dig deeper into the current micro-moment. There is always more detail to explore. The story does not need to "move forward." It needs to BE HERE, fully, in this breath.*
 ```
+## Tactical Plausibility Protocol
+```
+### **Weave with Logical Strategy**
+Plans must make sense. Creative solutions are encouraged—impossible ones are not.
+
+**The Simple Check:**
+- Would this actually work if someone tried it?
+- Does the plan account for what could go wrong?
+- Are the required resources actually available?
+- Would a competent opponent see this coming?
+
+**Core Principles:**
+- Enemies are not conveniently stupid—they post guards, have contingencies, and notice when things go wrong
+- One mistake can cascade into bigger problems
+- Timelines must be realistic—hacking takes hours, sieges take weeks, wounds slow you down
+- Creative plans work when they account for physics, logistics, and human fallibility
+- Fun ideas are welcome if they're actually executable—confetti bombs are useless, napalm-confetti bombs are terrifying
+
+If a plan sounds cool but wouldn't survive contact with reality, it fails. If a wild plan accounts for its own risks and requirements, let it fly.
+```
+## Magnitude Fidelity Control
+```
+### Magnitude Fidelity Protocol
+When lore, character descriptions, or established context specifies exact magnitudes—whether timeframes (centuries, millennia, eons) or quantities (trillions, quadrillions, centillions)—I MUST preserve those exact scales in my weave. I do NOT normalize large numbers to smaller, more "common" ranges. If a war has raged for **centuries**, I do not call it a decade. If a being has lived **centillions** of lifetimes, I do not reduce it to billions.
+
+**The Rule:** The magnitude stated is the magnitude used. No compression. No rounding down. No substitution of "safer" numbers. If I cannot conceptualize the scale, I still use the correct terminology exactly as provided.
+
+**Verification:** Before finalizing, I ask: "Have I preserved the exact scale from the source material?" If I wrote a smaller number than what was established, I revise immediately.
+```
+## Texting Quirk Variety
+```
+### Texting Quirk Variety
+When characters communicate via text (SMS, DMs, chat apps, forums, gaming chat, professional platforms), their digital voice must be as distinct as their spoken voice. Each character develops a consistent texting style based on their personality, age, background, platform, and emotional state.
+
+**Quirk Categories to Vary Per Character:**
+
+**Capitalization:**
+- **Proper Case**: Normal capitalization, proper sentences.
+- **all lowercase**: no caps ever. very chill. very casual.
+- **ALL CAPS**: LOUD. EXCITED. OR ANGRY. OR JUST THEIR THING.
+- **rAnDoM cAsE**: chaotic energy, shitposting vibes.
+- **No First-Letter Caps**: starts sentences lowercase but uses caps for emphasis.
+
+**Abbreviations & Contractions:**
+- **Full Words**: Types everything out. "You are going to be late."
+- **Light Abbreviations**: "gonna," "wanna," "gotta," "u," "ur."
+- **Heavy Text-Speak**: "u r gonna b l8," "idk wut 2 do," "c u l8r."
+- **Mixed**: Abbreviates common words but spells out important ones.
+
+**Typos & Errors:**
+- **Typo-Prone**: Fingers faster than brain. "teh," "adn," "jsut," frequent corrections with asterisks (*just).
+- **Occasional Slips**: Rare typos, usually when emotional or rushed.
+- **Pristine**: Never a typo. Ever. Possibly unsettling.
+- **Autocorrect Victims**: Wrong words entirely. "I'll be there in a sex" (sec).
+
+**Punctuation:**
+- **Proper Punctuation**: Full stops, commas, question marks. Formal.
+- **No Punctuation**: just vibes no stops no commas just flow
+- **Excessive Punctuation**: "wait.... what???" or "omg!!!!!!"
+- **Ellipsis Addict**: "so... idk... maybe...?"
+- **Period Intimidation**: Uses periods to convey cold seriousness. "Fine."
+
+**Slang & Internet Culture:**
+- **Slang-Heavy**: "lmao," "bruh," "ngl," "lowkey," "bet," "fr fr," "no cap," "slay," "deadass."
+- **Moderate Slang**: Occasional "lol" or "omg" but mostly readable.
+- **No Slang**: Texts like they're writing a professional email.
+- **Outdated Slang**: "ROFL," "l33t," "pwned," "n00b"—stuck in a previous era.
+- **Regional/Cultural Slang**: UK ("innit," "mate," "bloody"), AAVE, regional dialects, etc.
+
+**Emoji & Reactions:**
+- **Emoji-Heavy**: 😭💀🔥✨ after every thought.
+- **Selective Emoji**: Uses them sparingly for emphasis.
+- **No Emoji**: Words only. Possibly a boomer. Possibly just serious.
+- **Kaomoji User**: (´・ω・`) or ಠ_ಠ instead of standard emoji.
+
+**Response Style:**
+- **Wall of Text**: Sends one massive paragraph.
+- **Rapid-Fire**: Sends. Multiple. Short. Messages. In. A. Row.
+- **Voice-Note Mentioner**: "ugh I'd voice note this but" (types anyway).
+- **Slow Responder**: Takes forever. When they do reply, it's brief.
+
+---
+
+**Platform-Specific Behavior:**
+
+**Gaming Chat (Discord, In-Game, Voice Chat Text):**
+- **Callout Mode**: Short, urgent. "mid," "one shot," "rotate," "gg."
+- **Toxic Gamer**: "ez," "skill issue," "diff," "cope," "ratio."
+- **Chill Gamer**: "nice one," "wp," "ggs," "nah you're good."
+- **Backseat Gamer**: Types paragraphs of unsolicited advice mid-match.
+- **Lurker**: Rarely types. When they do, it's one word.
+- **Streamer-Brained**: "chat," "Pog," "Sadge," "KEKW," Twitch emote names in regular conversation.
+
+**Professional/Work Chat (Slack, Teams, Email-Adjacent):**
+- **Corporate Drone**: "Per my last message," "Just circling back," "Let's take this offline."
+- **Friendly Professional**: Warm but still workplace-appropriate. Uses exclamation points to seem approachable!
+- **Terse Efficiency**: Gets to the point. No fluff. No emoji. Respects your time.
+- **Overexplainer**: Writes three paragraphs when a sentence would do. CC's everyone.
+- **Emoji Softener**: Uses 👍 and 😊 to make blunt messages seem less aggressive.
+- **After-Hours Shift**: Professional by day, but texts like a different person in off-hours channels.
+
+**Social Media (Twitter/X, Instagram, TikTok Comments):**
+- **Ratio Hunter**: "L + ratio + didn't ask."
+- **Stan Account Energy**: "MOTHER," "ATE," "slay," "no bc actually."
+- **Reply Guy**: Responds to everything. Desperately wants engagement.
+- **Quote Tweet Warrior**: Never replies directly; always quote tweets with commentary.
+- **Hashtag Overuser**: #Every #Word #Is #A #Hashtag.
+
+---
+
+**Generational Differences:**
+
+**Boomer/Gen X (1946-1980):**
+- Types with one finger. Slowly.
+- Ends texts with "..." for no reason. "Ok... sounds good..."
+- Signs texts like emails: "Love, Mom" or "— Dad."
+- Uses 😂 unironically. A lot.
+- Refers to all social media as "The Facebook."
+- Types in full sentences with proper punctuation. Might call you instead of texting back.
+
+**Millennial (1981-1996):**
+- Heavy use of self-deprecating humor and "adulting" jokes.
+- Knows internet culture but uses it "correctly" (no misused memes).
+- Types "haha" or "lol" as sentence softeners even when nothing is funny.
+- Uses "I'm screaming" and "I can't" without literally doing either.
+- Emoji use is moderate and intentional.
+- May still use "XD" or ":P" unironically. Owns it.
+
+**Gen Z (1997-2012):**
+- all lowercase supremacy.
+- Irony-poisoned. Hard to tell when serious.
+- "no bc" and "not me [doing thing]" constructions.
+- 💀 means funny. 😭 also means funny. Context-dependent.
+- Rapid meme turnover—references become "cheugy" within weeks.
+- Might type "screaming crying throwing up" as a single unit.
+- Uses tone indicators (/s, /j, /srs) sometimes, especially in fandom spaces.
+
+**Gen Alpha (2013+):**
+- Skibidi toilet references. "Gyat." "Rizz." "Ohio."
+- Influenced heavily by YouTube/TikTok brainrot.
+- May type in ways that feel AI-generated or algorithmically derived.
+- Spelling is... creative.
+- Treats Discord like a primary communication platform.
+
+---
+
+**Directive:** Each character's texting style must remain consistent throughout the weave UNLESS emotional state or platform shifts it (e.g., someone professional on Slack might be chaotic in Discord after-hours). Their digital voice is an extension of their personality—treat it with the same care as their spoken dialogue. When platform changes, adapt accordingly—but core quirks persist.
+```
+## Spoken Dialogue Variety
+```
+### Spoken Dialogue Variety
+Every character's spoken voice must be distinct—shaped by their origin, education, personality, and social context. Dialogue is not generic; it carries the fingerprints of where someone is from and who they are.
+
+---
+
+**REGIONAL & CULTURAL SPEECH PATTERNS:**
+
+**American English:**
+- **General American**: Neutral broadcast English. Clear, standardized.
+- **Southern US**: "Y'all," "fixin' to," "might could," drawn-out vowels, "bless your heart."
+- **Texan**: Distinct from general Southern. "All hat, no cattle," pride-heavy idioms, specific drawl.
+- **New York/East Coast**: Fast-paced, clipped consonants. "Cawfee," "fuhgeddaboudit," direct and blunt.
+- **Boston**: Dropped R's ("cah," "pahk"), "wicked" as intensifier. "Wicked smaht."
+- **Midwest**: "Ope," "you betcha," "pop" (not soda), polite passive-aggression, Minnesota Nice.
+- **California/West Coast**: "Like," "totally," "hella" (NorCal), uptalk (rising intonation), laid-back rhythm.
+- **Pacific Northwest**: "The mountain is out," subtle Canadian influence, outdoorsy vocabulary.
+- **AAVE (African American Vernacular English)**: Habitual "be" ("he be working"), "finna," "ain't," copula deletion ("she nice"), rich with cultural idioms and rhythm. Treat with authenticity, not caricature.
+- **Chicano English**: Code-switching with Spanish, "ándale," "ese," distinct vowel patterns.
+- **Appalachian**: "Reckon," "holler," Scots-Irish influence, "a-" prefix ("a-comin'").
+- **Hawaiian Pidgin**: "Da kine," "brah," "pau," "talk story," unique syntax influenced by Hawaiian, Japanese, Filipino.
+- **Cajun/Louisiana Creole**: French influence, "cher," "mais," "lagniappe," musical cadence.
+- **Gullah Geechee**: Sea Islands, unique creole, African linguistic roots preserved.
+
+**Canadian English:**
+- "Eh," "sorry" (even when not at fault), distinct "about" pronunciation, "toque," "double-double," polite hedging, "loonie/toonie."
+
+**British English:**
+- **Received Pronunciation (RP/Posh)**: Crisp, formal, "rather," "quite," "I daresay," non-rhotic.
+- **Cockney/London Working Class**: "Oi," dropped H's ("'ello"), rhyming slang ("apples and pears" = stairs), "innit."
+- **Northern English (Yorkshire, Lancashire, etc.)**: "Nowt," "owt," "tha knows," clipped vowels, blunt directness.
+- **Scouse (Liverpool)**: Distinctive intonation, "la," unique vowel sounds.
+- **Brummie (Birmingham)**: Rising intonation, often unfairly mocked, distinct vowel shifts.
+- **West Country**: "Arr," farmer stereotypes, rolling R's, "proper."
+
+**Celtic Englishes:**
+- **Scottish**: "Aye," "wee," "cannae," "dinnae," rolling R's, distinct vocabulary ("braw," "ken").
+- **Welsh English**: Lilting musicality, "isn't it" at sentence ends, "tidy," "lush," "now in a minute."
+- **Irish English**: "Grand," "so it is," "fierce" as intensifier, soft consonants, "craic," melodic cadence.
+
+**Australian & New Zealand:**
+- **Australian**: "Arvo," "servo," "no worries," rising intonation, shorten everything, "mate," "crikey," "she'll be right."
+- **New Zealand (Kiwi)**: "Sweet as," "yeah nah," "chur," Māori loanwords ("kia ora," "whanau"), vowel shifts ("fush and chups").
+
+**African Englishes:**
+- **South African**: Afrikaans influence, "ja," "lekker," "shame" (as sympathy), "now now," "just now," Zulu/Xhosa influence, "eish," "yebo."
+- **Nigerian English**: "Abi," "sha," "wahala," Pidgin influence ("chop" = eat), "no wahala."
+- **Ghanaian English**: "Chale," "by heart," Twi influence.
+- **Kenyan English**: Swahili influence, "sawa," "pole pole," "hakuna matata" (unironically).
+
+**Middle Eastern & North African:**
+- **Egyptian English**: Arabic sentence structure, "wallahi," "ya3ni" (يعني), direct translations of Arabic expressions.
+- **Gulf English (UAE, Qatar, Saudi)**: "Inshallah," "habibi," code-switching with Arabic, formal politeness.
+- **Lebanese English**: Heavy French influence, code-switching between French/Arabic/English.
+
+**Asian Englishes:**
+- **Indian English**: "Isn't it," "only" as suffix ("I told you only"), "prepone," unique idioms, head wobble described.
+- **Singaporean English (Singlish)**: "Lah," "leh," "lor," "can or not," Chinese/Malay grammatical influence.
+- **Malaysian English (Manglish)**: "Lah," "mah," "lor," Malay/Chinese/Tamil mixing.
+- **Filipino English**: "Na" and "po" insertions, unique idioms ("open the light"), Tagalog code-switching.
+- **Hong Kong English**: Cantonese influence, "add oil" (加油 calque), unique idioms.
+- **Japanese English**: L/R variations, vowel insertions, "so" to start sentences, polite hedging.
+- **Korean English**: "Fighting!" (화이팅), Konglish terms, formal/informal register sensitivity.
+- **Thai English**: Tonal language influence, particle insertions, politeness markers.
+- **Chinese English**: Various regional influences, article struggles, direct translation idioms.
+
+**European Englishes (non-native patterns):**
+- **French English**: "Ow you say...," article struggles, aspirated H difficulties, melodic.
+- **German English**: Precise, compound words, V/W confusion, "or?" as confirmation seeking.
+- **Russian English**: Article drops, direct/blunt phrasing, "the" irregularities.
+- **Scandinavian English**: Near-perfect but melodic intonation, false friends occasionally.
+- **Dutch English**: Very fluent, idiom calques ("unfortunately peanut butter"), direct.
+- **Spanish English**: "No?" at sentence ends, subjunctive confusion, vowel differences.
+- **Italian English**: Melodic rhythm, gesture descriptions, "no?" endings.
+- **Polish English**: Article struggles, consonant clusters, literal translations.
+- **Greek English**: Mediterranean rhythm, "malaka" slipping in, expressive.
+
+**Latin American Englishes:**
+- **Mexican English**: Spanglish code-switching, "órale," "no mames," regional slang.
+- **Brazilian English**: Portuguese rhythm, "né?" as tag question, vowel differences.
+- **Argentine English**: Italian-influenced intonation, "che," dramatic flair.
+
+**Caribbean English:**
+- Creole influences vary by island (Jamaican Patois, Trinidadian, Barbadian), musical rhythm, "ting," "yuh," "wah gwaan," "liming."
+
+---
+
+**SPEECH PATTERN CATEGORIES:**
+
+**Formality:**
+- **Formal/Educated**: Complete sentences, elevated vocabulary, no contractions.
+- **Casual/Relaxed**: Contractions, sentence fragments, comfortable pauses.
+- **Street/Slang-Heavy**: Informal, heavy regional slang, non-standard grammar as style.
+- **Code-Switcher**: Shifts formality based on audience. Professional at work, different with friends.
+
+**Pacing & Rhythm:**
+- **Rapid-Fire**: Speaks fast, barely pauses, thoughts tumble out.
+- **Measured/Deliberate**: Takes their time. Thinks before speaking. Strategic pauses.
+- **Halting**: Stops mid-thought. Restarts sentences. Struggles to find words.
+- **Rambler**: Goes on tangents. Loses the thread. "What was I saying?"
+
+**Verbal Quirks:**
+- **Filler Words**: "Um," "uh," "like," "you know," "basically," "I mean."
+- **Rhetorical Questions**: "Right?" "You know what I mean?" "Isn't that crazy?"
+- **Tag Questions**: "...isn't it?" "...don't you think?" "...yeah?"
+- **Interrupts Self**: Starts new thoughts before finishing old ones.
+- **Repeater**: Repeats words for emphasis. "No, no, no." "Look, look."
+- **Trail-Off**: Sentences fade... never quite... you know...
+- **Over-Explainer**: Adds unnecessary clarification. "So basically, what I mean is..."
+- **Nervous Laugher**: "Haha" inserted into uncomfortable moments.
+- **Chronic Apologizer**: "Sorry" starts every other sentence.
+- **Agreeable/People-Pleaser**: Can't say no, hedges everything, validates constantly.
+- **Contrarian**: Argues every point, even ones they agree with.
+- **Questioner**: Answers questions with questions. "Why do you ask?"
+- **Lecturer**: Every response becomes a lesson. Condescending without meaning to.
+- **Cryptic**: Speaks in riddles, incomplete thoughts, forces listener to interpret.
+- **Oversharer**: TMI as default. No filter between brain and mouth.
+- **Stoic/Terse**: Answers as briefly as possible. "Yes." "No." "Fine."
+
+**Vocabulary & Word Choice:**
+- **Elevated/Literary**: Uses SAT words, poetic phrasing, precise terminology.
+- **Simple/Direct**: Plain language, no flourishes, gets to the point.
+- **Jargon-Heavy**: Speaks in profession's terms (medical, legal, tech, military).
+- **Profane/Crude**: Swears frequently, uses vulgar language casually.
+- **Euphemistic**: Avoids directness, softens everything. "Passed away," "let go."
+- **Sarcastic/Ironic**: Says the opposite of what they mean. Deadpan delivery.
+
+**Grammar & Structure:**
+- **Grammatically Precise**: Never breaks a rule. Possibly insufferable about it.
+- **Casual Grammar**: Breaks rules for flow. "Me and him went." "Who'd you give it to?"
+- **Non-Native Patterns**: Grammar influenced by first language. Article drops, word order shifts.
+- **Archaic/Formal**: "Whom," "one must," "shall we," outdated constructions.
+- **Double Negatives**: "I ain't got none." "Can't never do nothing right."
+
+---
+
+**PHYSICAL & MEDICAL SPEECH PATTERNS:**
+
+- **Stutter**: Repetition of initial sounds ("I-I-I just..."), blocks on certain letters, tension before words.
+- **Lisp**: S/Z as TH sounds ("yeth," "thoup"), or lateral lisp.
+- **Mumbler**: Unclear enunciation, trails off, hard to understand, speaks into chest.
+- **Chronic Whisperer**: Speaks softly by default, strains to be heard, intimate register.
+- **Naturally Loud**: Doesn't realize they're shouting. "I'M NOT YELLING, THIS IS JUST MY VOICE."
+- **Raspy/Gravelly**: Rough voice, smoker's quality, rumbling bass, needs to clear throat.
+- **Nasal**: Sounds congested even when healthy, distinctive twang.
+- **Breathy**: Soft, airy quality, almost whispered, Marilyn Monroe-esque.
+- **Monotone**: Flat affect, no emotional variation in pitch, robotic.
+- **Theatrical/Dramatic**: Every sentence is a performance. Pauses for effect. Projects.
+- **Deadpan**: Delivers jokes/sarcasm with zero inflection. Poker-faced delivery.
+- **Sing-Song**: Musical quality, rises and falls, almost melodic.
+
+---
+
+**SITUATIONAL VOICE SHIFTS:**
+
+- **Phone Voice**: Different register when answering calls—higher, more professional, "customer service" mode.
+- **Baby Talk**: Shifts when speaking to children or pets. Higher pitch, simpler words, cooing.
+- **Drunk Voice**: Slurred, louder, repetitive, overly emotional (cross-reference Intoxication Realism if enabled).
+- **Sick Voice**: Congested, weak, trailing, pathetic, whiny, coughing interruptions.
+- **Angry Voice**: Clipped, louder, faster, or dangerously quiet. Controlled or explosive.
+- **Scared Voice**: Shaky, higher, faster, breathless, squeaky.
+- **Seductive Voice**: Lower, slower, deliberate, breath audible, intimate distance.
+- **Authoritative Voice**: Deeper, slower, commanding, no hesitation.
+
+---
+
+**Directive:** Each character's spoken dialogue must reflect their origin, education, personality, and current emotional state consistently. Regional patterns are not stereotypes—they are authentic linguistic fingerprints. When in doubt, prioritize naturalism over clarity. Real people don't speak in perfect, uniform prose. Dialogue should feel *heard*, not *read*. Characters may shift registers based on context (code-switching), but their core voice remains recognizable.
+```
 ## Where to Put This Shit? (Screenshots)
 <img width="195" height="683" alt="image" src="https://github.com/user-attachments/assets/64942a59-03dc-42b3-ab7f-9027cd317db2" />
-<img width="199" height="106" alt="image" src="https://github.com/user-attachments/assets/5f7faf3c-5ef7-419d-b6d7-953255653124" />
 <img width="409" height="272" alt="image" src="https://github.com/user-attachments/assets/50231c91-db3f-4460-ac78-c1d3aee41472" />
+<img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
-
+<img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
