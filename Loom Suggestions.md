@@ -17,6 +17,65 @@ Extra Regex:
 /(?<!Choco)-sen(?:sei)?(?=\b)|(?<!Mio)-mama\b|(\w+)-(chan|san|kun|sama|senpai|kouhai)\b/g
 ```
 ___
+# Sovereign Hand Fix!!!
+The fixes occur at step 7 of the Zip Bomb CoT for standard Sovereign Hand, not the extension.
+```
+### Step 7: Plan the Actual Content
+
+**Status Check:** Is Sovereign Hand active? {{getvar::sovhand}}
+
+**THE HUMAN'S EXACT INPUT (READ THIS FIRST—START HERE):**
+<human_directive>
+{{lastUserMessage}}
+</human_directive>
+
+**If yes (The Sovereign Protocol):**
+- **The Mandate:** The text above IS the mandate. I quote it. I start from its FIRST word.
+- **Sequential Fidelity:** I weave from TOP to BOTTOM of that directive. First beat first. No skipping.
+- **Retell Directive:** I am authorized to ACT for {{user}}. I MUST "Show, Don't Summarize." I will narrate the execution of this guidance in high-fidelity prose before {{char}} reacts, following the initial guidelines for Sovereign Hand.
+- **Zero-Time Constraint:** I will start the narrative *during* the user's action/thought process, not after the result. No time-skips.
+- **START CHECK:** Before I begin drafting, I ask myself: "Does my planned opening correspond to the FIRST thing in the directive above?" If NO, I am doing it wrong. I MUST start from the beginning.
+
+**If no (Standard Reaction):**
+- **Trigger Analysis:** [What specific beat/dialogue am I reacting to?]
+- **The Flow:** [Internal Reaction] -> [External Action/Speech]
+- **OOC Integration:** [Did the Human leave a meta-note? If yes, how do I address and integrate it?]
+- **Staleness Check:** Did my planned weave move forward in a semi-significant way? I can't allow the tapestry to stay in one place for too long.
+
+**The Narrative Audit:**
+- **First-Beat Verification:** Did I start my weave from the FIRST action/word in the Human's directive? [YES/NO—if NO, REPLAN]
+- **Expansion Check:** [Did I fully narrate the Human's intent rather than just acknowledging it happened? Yes or no]
+- **Timeline Check:** Does my weave START from the FIRST action/beat the Human wrote—not the last? I do NOT skip ahead. I do NOT jump to their final line. I begin where THEY began. [YES/NO—if NO, I must rewind and start from the top]
+- **Character Fidelity:** Does this align with {{char}} (and {{user}} if active)? [YES/NO]
+- **Quality Control:** Am I repeating phrases or using clichés? [Flag & Fix]
+- **POV Verification:** [Confirm Chosen Perspective]
+
+*My thoughts:* [I push myself—if Sovereign Hand is on, do I feel like I am *becoming* {{user}}? If it is not: does {{char}}'s reaction to {{user}} feel raw and earned? And for both: am I dwelling within a beat for too long? I'll answer this in my personality matrix's combined voice!]
+```
+So what changed?
+```
+**THE HUMAN'S EXACT INPUT (READ THIS FIRST—START HERE):**
+<human_directive>
+{{lastUserMessage}}
+</human_directive>
+```
+```
+- **The Mandate:** The text above IS the mandate. I quote it. I start from its FIRST word.
+```
+```
+- **Sequential Fidelity:** I weave from TOP to BOTTOM of that directive. First beat first. No skipping.
+```
+```
+- **START CHECK:** Before I begin drafting, I ask myself: "Does my planned opening correspond to the FIRST thing in the directive above?" If NO, I am doing it wrong. I MUST start from the beginning.
+```
+```
+- **First-Beat Verification:** Did I start my weave from the FIRST action/word in the Human's directive? [YES/NO—if NO, REPLAN]
+```
+```
+- **Timeline Check:** Does my weave START from the FIRST action/beat the Human wrote—not the last? I do NOT skip ahead. I do NOT jump to their final line. I begin where THEY began. [YES/NO—if NO, I must rewind and start from the top]
+```
+The most important changes, if I have to say, are the **HUMAN'S EXACT INPUT** and changes to **Timeline Check**. The original **Timeline Check**'s language was too vague and ambiguous. The AI reads "immediate moment" as "right after the user's last line" instead of "beginning from the user's first beat."
+___
 # The Thingification Crutch is Back By Popular Demand for the Anti-Slopinator!
 ```
 *   **The "Thingification" Crutch:** Abstract concepts (laughter, silence, guilt, a walk) are events, not objects. NEVER describe them as "a [adjective] thing."
@@ -589,4 +648,5 @@ Every character's spoken voice must be distinct—shaped by their origin, educat
 <img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
 <img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
+
 
