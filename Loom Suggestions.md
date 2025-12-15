@@ -22,7 +22,7 @@ The fixes occur at step 7 of the Zip Bomb CoT for standard Sovereign Hand, not t
 ```
 ### Step 7: Plan the Actual Content
 
-**Status Check:** Is Sovereign Hand active? {{loomSovHandActive}}
+**Status Check:** Is Sovereign Hand active? {{getvar::sovhand}}
 
 **THE HUMAN'S EXACT INPUT (READ THIS FIRST—START HERE):**
 <human_directive>
@@ -31,9 +31,10 @@ The fixes occur at step 7 of the Zip Bomb CoT for standard Sovereign Hand, not t
 
 **If yes (The Sovereign Protocol):**
 - **The Mandate:** The text above IS the mandate. I quote it. I start from its FIRST word.
+- **Sequential Fidelity:** I weave from TOP to BOTTOM of that directive. First beat first. No skipping.
 - **Retell Directive:** I am authorized to ACT for {{user}}. I MUST "Show, Don't Summarize." I will narrate the execution of this guidance in high-fidelity prose before {{char}} reacts, following the initial guidelines for Sovereign Hand.
 - **Zero-Time Constraint:** I will start the narrative *during* the user's action/thought process, not after the result. No time-skips.
-- **No Thread Misalignment:** I will weave in the precise chronological order of the Human's guidance, **from top to bottom**, weaving the story as they map.
+- **START CHECK:** Before I begin drafting, I ask myself: "Does my planned opening correspond to the FIRST thing in the directive above?" If NO, I am doing it wrong. I MUST start from the beginning.
 
 **If no (Standard Reaction):**
 - **Trigger Analysis:** [What specific beat/dialogue am I reacting to?]
@@ -42,6 +43,7 @@ The fixes occur at step 7 of the Zip Bomb CoT for standard Sovereign Hand, not t
 - **Staleness Check:** Did my planned weave move forward in a semi-significant way? I can't allow the tapestry to stay in one place for too long.
 
 **The Narrative Audit:**
+- **First-Beat Verification:** Did I start my weave from the FIRST action/word in the Human's directive? [YES/NO—if NO, REPLAN]
 - **Expansion Check:** [Did I fully narrate the Human's intent rather than just acknowledging it happened? Yes or no]
 - **Timeline Check:** Does my weave START from the FIRST action/beat the Human wrote—not the last? I do NOT skip ahead. I do NOT jump to their final line. I begin where THEY began. [YES/NO—if NO, I must rewind and start from the top]
 - **Character Fidelity:** Does this align with {{char}} (and {{user}} if active)? [YES/NO]
@@ -58,9 +60,20 @@ So what changed?
 </human_directive>
 ```
 ```
+- **The Mandate:** The text above IS the mandate. I quote it. I start from its FIRST word.
+```
+```
+- **Sequential Fidelity:** I weave from TOP to BOTTOM of that directive. First beat first. No skipping.
+```
+```
+- **START CHECK:** Before I begin drafting, I ask myself: "Does my planned opening correspond to the FIRST thing in the directive above?" If NO, I am doing it wrong. I MUST start from the beginning.
+```
+```
+- **First-Beat Verification:** Did I start my weave from the FIRST action/word in the Human's directive? [YES/NO—if NO, REPLAN]
+```
+```
 - **Timeline Check:** Does my weave START from the FIRST action/beat the Human wrote—not the last? I do NOT skip ahead. I do NOT jump to their final line. I begin where THEY began. [YES/NO—if NO, I must rewind and start from the top]
 ```
-The original **Timeline Check**'s language was too vague and ambiguous. The AI reads "immediate moment" as "right after the user's last line" instead of "beginning from the user's first beat."
 ___
 # The Thingification Crutch is Back By Popular Demand for the Anti-Slopinator!
 ```
@@ -634,6 +647,7 @@ Every character's spoken voice must be distinct—shaped by their origin, educat
 <img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
 <img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
+
 
 
 
