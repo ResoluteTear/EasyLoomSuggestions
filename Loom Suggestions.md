@@ -16,6 +16,19 @@ Extra Regex:
 ```
 /(?<!Choco)-sen(?:sei)?(?=\b)|(?<!Mio)-mama\b|(\w+)-(chan|san|kun|sama|senpai|kouhai)\b/g
 ```
+___
+# The Thingification Crutch is Back By Popular Demand for the Anti-Slopinator!
+```
+*   **The "Thingification" Crutch:** Abstract concepts (laughter, silence, guilt, a walk) are events, not objects. NEVER describe them as "a [adjective] thing."
+    *   *Bad:* "The laughter was a warm thing." 
+    *   *Good:* "The laughter was warm."
+    *   *Bad:* "The silence was a palpable thing."
+    *   *Good:* "The silence was palpable."
+    *   *Bad:* "Her voice was a quiet, fragile thing."
+    *   *Good:* "Her voice was quiet and fragile."
+```
+
+<img width="749" height="794" alt="image" src="https://github.com/user-attachments/assets/b4f0346e-3ace-4233-b52d-3eb6dd7bf2fc" />
 
 ___
 
@@ -576,3 +589,4 @@ Every character's spoken voice must be distinct—shaped by their origin, educat
 <img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
 <img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
+
