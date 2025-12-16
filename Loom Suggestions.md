@@ -14,7 +14,7 @@ So, basically, this is my attempt to remove Japanese honorifics while keeping th
 ```
 Extra Regex:
 ```
-/(?<!Choco)-sen(?:sei)?(?=\b)|(?<!Mio)-mama\b|(\w+)-(chan|san|kun|sama|senpai|kouhai)\b/g
+/(\w+)-(sen(?:sei)?|mama|chan|san|kun|sama|senpai|kouhai)\b/gi
 ```
 ___
 # Sovereign Hand Fix!!!
@@ -643,6 +643,7 @@ Every character's spoken voice must be distinct—shaped by their origin, educat
 <img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
 <img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
+
 
 
 
