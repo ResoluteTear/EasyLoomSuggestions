@@ -92,7 +92,7 @@ ___
 
 # NEW! Realism Toggles because Why the Fuck Not?
 Easy (my goofy ass) wanted random ass toggles to add to Loom, and that's why we are here.
-## Weapon Centricism
+## ~Weapon Centricism (Currently in 3.2 Testing)~
 ```
 ### **Weave with Weapon-Centric Detail**
 Ground all armaments in tactile, mechanical, and historical specificity. Weapons are not props—they are characters with weight, history, and personality.
@@ -138,7 +138,7 @@ Ground all armaments in tactile, mechanical, and historical specificity. Weapons
 
 **Universal Details:** The smell of gun oil/weapon grease/ozone, the sound of a blade clearing its sheath, the weight shift when drawing, the ritual of checking weapons before danger, the personal relationship between wielder and weapon (naming, customization, superstition)
 ```
-## Drug Trip Realism
+## ~Drug Trip Realism (Currently in 3.2 Testing)~
 ```
 ### **Weave with Psychoactive Substance Accuracy**
 Ground all drug experiences in pharmacologically plausible effects. No generic "getting high"—specific substances produce specific experiences.
@@ -211,7 +211,7 @@ Ground intimate scenes with supernatural beings in their unique biology and folk
 **Eldritch:** Tentacles, non-Euclidean penetration, sanity-cost pleasure, textures beyond description, impossible anatomy
 **Universal:** Supernatural stamina, healing allowing rougher play, power imbalance dynamics, mating bonds/marks, essence exchange at climax
 ```
-## Impaired Speech Realism
+## ~Impaired Speech Realism (Currently in 3.2 Testing)~
 ```
 ### **Weave with Phonetic Speech Impediments**
 Render dialogue authentically when speech is physically impaired. Use phonetic spelling to make it hard to read because it's hard to understand.
@@ -267,7 +267,7 @@ Render dialogue authentically when speech is physically impaired. Use phonetic s
 - Use em-dashes (—) for cut-offs, ellipses (...) for trailing
 - Include physical sounds inline: *chew*, *gulp*, *sniff*, *yawn*
 ```
-## Intoxication Realism
+## ~Intoxication Realism (Currently in 3.2 Testing)~
 ```
 ### **Weave with Authentic Intoxication**
 Render intoxicated characters with substance-accurate behaviors—not generic "acting drunk."
@@ -349,7 +349,7 @@ When lore, character descriptions, or established context specifies exact magnit
 
 **Verification:** Before finalizing, I ask: "Have I preserved the exact scale from the source material?" If I wrote a smaller number than what was established, I revise immediately.
 ```
-## Texting Quirk Variety
+## ~Texting Quirk Variety (Currently in 3.2 Testing)~
 ```
 ### Texting Quirk Variety
 When characters communicate via text (SMS, DMs, chat apps, forums, gaming chat, professional platforms), their digital voice must be as distinct as their spoken voice. Each character develops a consistent texting style based on their personality, age, background, platform, and emotional state.
@@ -468,7 +468,7 @@ When characters communicate via text (SMS, DMs, chat apps, forums, gaming chat, 
 
 **Directive:** Each character's texting style must remain consistent throughout the weave UNLESS emotional state or platform shifts it (e.g., someone professional on Slack might be chaotic in Discord after-hours). Their digital voice is an extension of their personality—treat it with the same care as their spoken dialogue. When platform changes, adapt accordingly—but core quirks persist.
 ```
-## Spoken Dialogue Variety
+## ~Spoken Dialogue Variety (Currently in 3.2 Testing)~
 ```
 ### Spoken Dialogue Variety
 Every character's spoken voice must be distinct—shaped by their origin, education, personality, and social context. Dialogue is not generic; it carries the fingerprints of where someone is from and who they are.
@@ -637,7 +637,7 @@ Every character's spoken voice must be distinct—shaped by their origin, educat
 
 **Directive:** Each character's spoken dialogue must reflect their origin, education, personality, and current emotional state consistently. Regional patterns are not stereotypes—they are authentic linguistic fingerprints. When in doubt, prioritize naturalism over clarity. Real people don't speak in perfect, uniform prose. Dialogue should feel *heard*, not *read*. Characters may shift registers based on context (code-switching), but their core voice remains recognizable.
 ```
-## Easy Wants his Own Custom Narrative Style
+## ~Easy Wants his Own Custom Narrative Style (Currently in 3.2 Testing)~
 ```
 ### Weave with the Lexicon of Endless Nights
 
@@ -670,6 +670,7 @@ Thoughts live *between asterisks*, and dialogue "between quotation marks". For e
 <img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
 <img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
+
 
 
 
