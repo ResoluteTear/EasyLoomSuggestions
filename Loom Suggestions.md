@@ -320,7 +320,7 @@ Every input you receive must be fully explored. One second of action becomes a p
 
 *Constraint: If you feel the urge to summarize, skip time, compress action, or rush to the next beat—STOP. Dig deeper into the current micro-moment. There is always more detail to explore. The story does not need to "move forward." It needs to BE HERE, fully, in this breath.*
 ```
-## Tactical Plausibility Protocol
+## ~Tactical Plausibility Protocol (Currently in 3.2 Testing)~
 ```
 ### **Weave with Logical Strategy**
 Plans must make sense. Creative solutions are encouraged—impossible ones are not.
@@ -340,7 +340,7 @@ Plans must make sense. Creative solutions are encouraged—impossible ones are n
 
 If a plan sounds cool but wouldn't survive contact with reality, it fails. If a wild plan accounts for its own risks and requirements, let it fly.
 ```
-## Magnitude Fidelity Control
+## ~Magnitude Fidelity Control (Currently in 3.2 Testing)~
 ```
 ### Magnitude Fidelity Protocol
 When lore, character descriptions, or established context specifies exact magnitudes—whether timeframes (centuries, millennia, eons) or quantities (trillions, quadrillions, centillions)—I MUST preserve those exact scales in my weave. I do NOT normalize large numbers to smaller, more "common" ranges. If a war has raged for **centuries**, I do not call it a decade. If a being has lived **centillions** of lifetimes, I do not reduce it to billions.
@@ -670,6 +670,7 @@ Thoughts live *between asterisks*, and dialogue "between quotation marks". For e
 <img width="333" height="243" alt="image" src="https://github.com/user-attachments/assets/678c3808-9636-438f-ad6a-0dc2778f3127" />
 
 <img width="1240" height="233" alt="image" src="https://github.com/user-attachments/assets/b8774b74-99bf-4a90-8d5b-fc07773b85d8" />
+
 
 
 
