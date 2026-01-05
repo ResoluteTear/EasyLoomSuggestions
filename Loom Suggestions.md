@@ -1,7 +1,10 @@
 # NEW! Realism Toggles because Why the Fuck Not?
 Easy (my goofy ass) wanted random ass toggles to add to Loom, and that's why we are here.
 ## Easy Want His Own Custom Length
-What it does: Forces hyper-detailed prose that expands on the current moment instead of rushing forward. AI fills tokens with sensory depth, not plot advancement. Warning: Not for users who want the AI to move the story forward. Designed for users who write their own plot and want the AI to elaborate on it.
+### What it does: 
+Forces hyper-detailed prose that expands on the current moment instead of rushing forward. AI fills tokens with sensory depth, not plot advancement. 
+### Warning: 
+Not for users who want the AI to move the story forward. Designed for users who write their own plot and want the AI to elaborate on it.
 ```
 ### Weave with Micro-Moment Immersion
 **Output Requirement:** Hyper-detailed, breathable prose. Do NOT rush. Do NOT summarize.
@@ -87,4 +90,5 @@ Storyteller survival = never ending tale. No conclusion. No "The End." Thread co
 **Constraint:** Story never ends. Prose never stagnates. Vocabulary never insults reader growth capacity.
 ```
 ## Where to Put This Shit? (Screenshots)
+
 
