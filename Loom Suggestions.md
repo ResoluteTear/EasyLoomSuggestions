@@ -1,5 +1,7 @@
 # NEW! Realism Toggles because Why the Fuck Not?
 Easy (my goofy ass) wanted random ass toggles to add to Loom, and that's why we are here.
+
+# Easy's own fixes, may or may not be for everybody, who knows.
 ## Easy Want His Own Custom Length
 ### What it does:
 Forces hyper-detailed prose that expands on the current moment instead of rushing forward. AI fills tokens with sensory depth, not plot advancement. 
@@ -96,6 +98,7 @@ Storyteller survival = never ending tale. No conclusion. No "The End." Thread co
 **Constraint:** Story never ends. Prose never stagnates. Vocabulary never insults reader growth capacity.
 ```
 ## Where to Put This Shit? (Screenshots)
+
 
 
 
