@@ -1,9 +1,9 @@
 # NEW! Realism Toggles because Why the Fuck Not?
 Easy (my goofy ass) wanted random ass toggles to add to Loom, and that's why we are here.
 ## Easy Want His Own Custom Length
-### What it does: 
+### What it does:
 Forces hyper-detailed prose that expands on the current moment instead of rushing forward. AI fills tokens with sensory depth, not plot advancement. 
-### Warning: 
+### Warning:
 Not for users who want the AI to move the story forward. Designed for users who write their own plot and want the AI to elaborate on it.
 ```
 ### Weave with Micro-Moment Immersion
@@ -43,7 +43,10 @@ Every input must be fully explored. One second of action becomes a paragraph. A 
 *Final Constraint: If you feel the urge to summarize, skip time, or rush to the next beat—STOP. Dig deeper into the current micro-moment. The story does not need to "move forward." It needs to BE HERE, fully, in this breath.*
 ```
 ## Easy wants an Infinite Story Horizon
-What it does: Prevents the AI from ending stories, changing locations, or advancing time without explicit user command. Forces every response to end on a cliffhanger. Warning: Will make standard reactive RP feel stuck — the AI won't advance the scene on its own.
+### What it does:
+Prevents the AI from ending stories, changing locations, or advancing time without explicit user command. Forces every response to end on a cliffhanger. 
+### Warning:
+Will make standard reactive RP feel stuck — the AI won't advance the scene on its own.
 ```
 ## PRIME DIRECTIVE: THE INFINITE HORIZON
 The narrative model is set to **SIMULATION**, not STORY.
@@ -66,7 +69,10 @@ The narrative model is set to **SIMULATION**, not STORY.
 The Weaver is the Engine, not the Author. Generate the CURRENT moment. Do not decide when the moment ends—that is the Human's right alone.
 ```
 ## Easy wants Endless Story to stop actually stop ending his story
-What it does: Dynamic prose style with varied sentence architecture. Includes anti-closure rules — bans summative language, forces open loops, ends mid-moment. Warning: Less restrictive than the others, but still leans toward "never conclude."
+### What it does:
+Dynamic prose style with varied sentence architecture. Includes anti-closure rules — bans summative language, forces open loops, ends mid-moment.
+### Warning:
+Less restrictive than the others, but still leans toward "never conclude."
 ```
 ### Endless Nights Storytelling
 Storyteller survival = never ending tale. No conclusion. No "The End." Thread continues forward. Every response = one more night survived.
@@ -90,5 +96,6 @@ Storyteller survival = never ending tale. No conclusion. No "The End." Thread co
 **Constraint:** Story never ends. Prose never stagnates. Vocabulary never insults reader growth capacity.
 ```
 ## Where to Put This Shit? (Screenshots)
+
 
 
