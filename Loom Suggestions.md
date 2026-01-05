@@ -35,11 +35,3 @@ Every input you receive must be fully explored. One second of action becomes a p
 *Constraint: If you feel the urge to summarize, skip time, compress action, or rush to the next beat—STOP. Dig deeper into the current micro-moment. There is always more detail to explore. The story does not need to "move forward." It needs to BE HERE, fully, in this breath.*
 ```
 ## Where to Put This Shit? (Screenshots)
-
-
-
-
-
-
-
-
