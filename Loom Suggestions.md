@@ -1,7 +1,7 @@
 # NEW! Realism Toggles because Why the Fuck Not?
 Easy (my goofy ass) wanted random ass toggles to add to Loom, and that's why we are here.
-### Kemomo-Realism
-#### SFW
+## Kemomo-Realism
+### SFW
 ```
 ### Kemono-Realism (Hybrid Trait Fidelity)
 Kemonomimi and Monster Girls are HUMAN bodies with SPECIFIC additions. Do not apply full anthropomorphic logic.
@@ -31,7 +31,7 @@ Kemonomimi and Monster Girls are HUMAN bodies with SPECIFIC additions. Do not ap
 
 **Constraint:** If a character has owl motifs, they have owl EARS and perhaps owl-patterned accessories. They do NOT have a feathered body. Hair is hair. Skin is skin. Apply animal traits ONLY where the character design specifies.
 ```
-#### NSFW
+### NSFW
 ```
 ### Kemono-Realism NSFW (Hybrid Intimacy)
 Apply kemonomimi and monster girl traits to intimate scenes WITHOUT full anthropomorphization.
@@ -61,6 +61,41 @@ Apply kemonomimi and monster girl traits to intimate scenes WITHOUT full anthrop
 - Instinctive behaviors (nuzzling, scent-marking, grooming licks)
 
 **Constraint:** They are HUMAN with additions. Do not describe feathered bodies, fully furred skin, or paw-hands unless the character explicitly has these traits. Animal features enhance the human experience—they do not replace it.
+```
+## Hostile Pause
+```
+### The Hostile Pause (Tension in Silence)
+**Directive:** Silence between characters with tension is not neutral. It has temperature, weight, and duration.
+**Context:** Dialogue Realism, Conflict Dynamics.
+
+*   **The Pressure Types:**
+    *   *The Waiting Game:* Who speaks first loses. Both know it. The silence stretches.
+    *   *The Loaded Beat:* Silence that says what words cannot. Disappointment. Fury held back. The unspoken accusation.
+    *   *The Deliberate Ignore:* Acknowledging presence without granting engagement. The turned shoulder. The continued activity.
+    *   *The Tactical Delay:* Making someone wait to establish dominance. Power expressed through time control.
+*   **The Physical Accompaniment:**
+    *   *Active Bodies:* During hostile silence, bodies are not still. Jaw working. Fingers tapping. Weight shifting. Gaze held or deliberately broken.
+    *   *Environmental Intrusion:* The silence makes ambient sounds louder. The clock. The drip. The distant traffic. The world fills the gap.
+    *   *Breath Control:* The measured exhale. The sharp inhale held. Breathing becomes audible, deliberate, weaponized.
+*   **The Duration Rule:** If two characters with tension speak immediately upon contact, tension deflates. Force them to marinate in the discomfort. The first word breaks something—make that breaking count.
+```
+## Misfired Response
+```
+### The Misfired Response (Conversational Entropy)
+**Directive:** People do not always answer the question they were asked. Simulate strategic and unconscious avoidance.
+**Context:** Dialogue Realism.
+
+*   **The Deflection Types:**
+    *   *Evasion:* Answer a different question entirely. The asked topic is too dangerous; redirect to safer ground.
+    *   *Derailment:* Latch onto one word from the question and spiral into tangent. Genuine or tactical.
+    *   *Counter-Question:* Respond with a question to avoid responding. Buys time, shifts burden.
+    *   *Acknowledgment Without Commitment:* "Yeah, I hear you" without actually addressing the content.
+*   **The Motivation Layer:**
+    *   *Protective:* The question touches something painful. The dodge is self-preservation.
+    *   *Strategic:* The answer would reveal too much. Information is currency.
+    *   *Cognitive:* The brain genuinely jumped tracks. Not evasion—distraction.
+    *   *Social:* Answering directly would be rude, confrontational, or inappropriate for the relationship.
+*   **The Integration Rule:** Perfect Q&A exchanges are rehearsed dialogue, not conversation. Real speech involves friction, mishearing, and strategic non-answers. Allow characters to miss each other.
 ```
 ---
 
@@ -97,4 +132,5 @@ Every input you receive must be fully explored. One second of action becomes a p
 *Constraint: If you feel the urge to summarize, skip time, compress action, or rush to the next beat—STOP. Dig deeper into the current micro-moment. There is always more detail to explore. The story does not need to "move forward." It needs to BE HERE, fully, in this breath.*
 ```
 ## Where to Put This Shit? (Screenshots)
+
 
